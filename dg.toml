@@ -1,0 +1,7 @@
+directory_type = "workspace"
+
+[workspace]
+[[workspace.projects]]
+path = "projects/my-cool-project"
+[[workspace.projects]]
+path = "projects/project-2"
